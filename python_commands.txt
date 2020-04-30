@@ -1,0 +1,33 @@
+1  ssh root@ehss123
+   
+2  history 
+    
+3  pwd
+    
+4  ls
+    
+5  ./venv/Scripts/activate.bat
+   
+6  ls
+    
+7  pwd
+    
+8  history 
+    
+9  pwd
+   
+10  ls -a
+  
+11  pip freeze
+  
+12  python manage.py startapp pages
+  
+13  python manage.py runserver
+   
+14  ./venv/Scripts/activate.bat
+   
+15  python manage.py runserver
+   
+16  history 
+   
+17  history > python_commands.txt
